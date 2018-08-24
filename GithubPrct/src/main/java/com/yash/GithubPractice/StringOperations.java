@@ -1,7 +1,7 @@
 package com.yash.GithubPractice;
 
 public class StringOperations {
-	
-	String i;
+
+	String i = null;
 
 }
